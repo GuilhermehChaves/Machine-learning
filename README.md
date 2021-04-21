@@ -4,6 +4,6 @@
 
 A repository that contains my machine learning knowledge acquired through the book "Hands-On Machine Learning with Scikit-Learn & Tensorflow" written by [Aurélion Géron](https://github.com/ageron).
 
-Here in this repository, you'll follow me on my journey reading this book and extracting all the possible knowledge.
+Here in this repository, you'll follow my journey reading, sum up, improve my english and extracting all the possible knowledge of the book.
 
 let's enjoy this journey 🚀✨.
